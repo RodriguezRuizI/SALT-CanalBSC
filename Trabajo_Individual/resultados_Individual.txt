@@ -1,0 +1,5 @@
+               Resultados
+Probabilidad relativa de R: 0.038200
+Probabilidad de A condicionado a R: 0.646597
+Probabilidad de B condicionado a R: 0.018325
+Probabilidad de C condicionado a R: 0.335079

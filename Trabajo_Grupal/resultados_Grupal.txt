@@ -1,0 +1,101 @@
+               Resultados
+Probabilidad relativa de error A: 0.228300
+Probabilidad de A condicionado a A: 0.962330
+Probabilidad de B condicionado a A: 0.024529
+Probabilidad de C condicionado a A: 0.006132
+Probabilidad de D condicionado a A: 0.001752
+Probabilidad de E condicionado a A: 0.004380
+Probabilidad de F condicionado a A: 0.000876
+Probabilidad de G condicionado a A: 0.000000
+Probabilidad de H condicionado a A: 0.000000
+Probabilidad relativa de error B: 0.122000
+Probabilidad de A condicionado a B: 0.095082
+Probabilidad de B condicionado a B: 0.846721
+Probabilidad de C condicionado a B: 0.000820
+Probabilidad de D condicionado a B: 0.022131
+Probabilidad de E condicionado a B: 0.000820
+Probabilidad de F condicionado a B: 0.030328
+Probabilidad de G condicionado a B: 0.000000
+Probabilidad de H condicionado a B: 0.004098
+Probabilidad relativa de error C: 0.043600
+Probabilidad de A condicionado a C: 0.259174
+Probabilidad de B condicionado a C: 0.006881
+Probabilidad de C condicionado a C: 0.584862
+Probabilidad de D condicionado a C: 0.068807
+Probabilidad de E condicionado a C: 0.000000
+Probabilidad de F condicionado a C: 0.002294
+Probabilidad de G condicionado a C: 0.055046
+Probabilidad de H condicionado a C: 0.022936
+Probabilidad relativa de error D: 0.073400
+Probabilidad de A condicionado a D: 0.012262
+Probabilidad de B condicionado a D: 0.076294
+Probabilidad de C condicionado a D: 0.013624
+Probabilidad de D condicionado a D: 0.677112
+Probabilidad de E condicionado a D: 0.000000
+Probabilidad de F condicionado a D: 0.005450
+Probabilidad de G condicionado a D: 0.001362
+Probabilidad de H condicionado a D: 0.213896
+Probabilidad relativa de error E: 0.030900
+Probabilidad de A condicionado a E: 0.300971
+Probabilidad de B condicionado a E: 0.009709
+Probabilidad de C condicionado a E: 0.000000
+Probabilidad de D condicionado a E: 0.000000
+Probabilidad de E condicionado a E: 0.456311
+Probabilidad de F condicionado a E: 0.119741
+Probabilidad de G condicionado a E: 0.090615
+Probabilidad de H condicionado a E: 0.022654
+Probabilidad relativa de error F: 0.088600
+Probabilidad de A condicionado a F: 0.013544
+Probabilidad de B condicionado a F: 0.051919
+Probabilidad de C condicionado a F: 0.000000
+Probabilidad de D condicionado a F: 0.001129
+Probabilidad de E condicionado a F: 0.003386
+Probabilidad de F condicionado a F: 0.737020
+Probabilidad de G condicionado a F: 0.001129
+Probabilidad de H condicionado a F: 0.191874
+Probabilidad relativa de error G: 0.088600
+Probabilidad de A condicionado a G: 0.005533
+Probabilidad de B condicionado a G: 0.000000
+Probabilidad de C condicionado a G: 0.034578
+Probabilidad de D condicionado a G: 0.001383
+Probabilidad de E condicionado a G: 0.009682
+Probabilidad de F condicionado a G: 0.002766
+Probabilidad de G condicionado a G: 0.731674
+Probabilidad de H condicionado a G: 0.214385
+Probabilidad relativa de error H: 0.340900
+Probabilidad de A condicionado a H: 0.000000
+Probabilidad de B condicionado a H: 0.000880
+Probabilidad de C condicionado a H: 0.000000
+Probabilidad de D condicionado a H: 0.007334
+Probabilidad de E condicionado a H: 0.000000
+Probabilidad de F condicionado a H: 0.007627
+Probabilidad de G condicionado a H: 0.006454
+Probabilidad de H condicionado a H: 0.977706
+Número total de palabras A enviadas:  2544
+Número total de errores A enviados:  2283
+Número total de palabras B enviadas:  1200
+Número total de errores B enviados:  1220
+Número total de palabras C enviadas:   305
+Número total de errores C enviados:   436
+Número total de palabras D enviadas:   585
+Número total de errores D enviados:   734
+Número total de palabras E enviadas:   162
+Número total de errores E enviados:   309
+Número total de palabras F enviadas:   764
+Número total de errores F enviados:   886
+Número total de palabras G enviadas:   605
+Número total de errores G enviados:   723
+Número total de palabras H enviadas:  3837
+Número total de errores H enviados:  3409
+La palabra error recibida más probable R es:     1    1    1
+La palabra error se recibe:  3409 veces
+Probabilidad de palabras error R enviadas: 0.383700
+Probabilidad de palabras error R recibidas: 0.340900
+Probabilidad de recibir R habiendo enviado A: 0.000000
+Probabilidad de recibir R habiendo enviado B: 0.000000
+Probabilidad de recibir R habiendo enviado C: 0.000000
+Probabilidad de recibir R habiendo enviado D: 0.000000
+Probabilidad de recibir R habiendo enviado E: 0.000000
+Probabilidad de recibir R habiendo enviado F: 0.000000
+Probabilidad de recibir R habiendo enviado G: 0.000000
+Probabilidad de recibir R habiendo enviado H: 0.147844
